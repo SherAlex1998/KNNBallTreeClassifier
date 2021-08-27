@@ -8,7 +8,7 @@ Classifier based on the nearest neighbor search algorithm/Классификат
 * Pandas
 * Scikit-learn
 
-**Устновка:**
+**Установка:**
 Запустить файл run.ipynb с помощью Jupyter Notebook и последовательно выполнить все ячейки.
 
 **Структура проекта:**
@@ -25,7 +25,7 @@ run.ipynb - ноутбук с ячейками, в которых использ
 * Pandas
 * Scikit-learn
 
-** Ustnovka:**
+** Installation:**
 Run the run.ipynb file using Jupyter Notebook and execute all the cells sequentially.
 
 ** Project Structure:**
