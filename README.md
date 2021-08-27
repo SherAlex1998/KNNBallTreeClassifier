@@ -9,6 +9,7 @@ Classifier based on the nearest neighbor search algorithm/Классификат
 * Scikit-learn
 
 **Установка:**
+Установить NumPy, matplotlib, sklearn.
 Запустить файл run.ipynb с помощью Jupyter Notebook и последовательно выполнить все ячейки.
 
 **Структура проекта:**
@@ -26,6 +27,7 @@ run.ipynb - ноутбук с ячейками, в которых использ
 * Scikit-learn
 
 ** Installation:**
+Install NumPy, matplotlib, sklearn.
 Run the run.ipynb file using Jupyter Notebook and execute all the cells sequentially.
 
 ** Project Structure:**
