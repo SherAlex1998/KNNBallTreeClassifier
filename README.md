@@ -8,6 +8,10 @@ Classifier based on the nearest neighbor search algorithm/Классификат
 * Pandas
 * Scikit-learn
 
+Подробное объяснение есть в статье на habr:
+
+https://habr.com/ru/post/575130/
+
 **Установка:**
 Установить NumPy, matplotlib, sklearn.
 Запустить файл run.ipynb с помощью Jupyter Notebook и последовательно выполнить все ячейки.
@@ -25,6 +29,10 @@ run.ipynb - ноутбук с ячейками, в которых использ
 * NumPy
 * Pandas
 * Scikit-learn
+
+This project has exploration on habr article:
+
+https://habr.com/ru/post/575130/
 
 ** Installation:**
 Install NumPy, matplotlib, sklearn.
